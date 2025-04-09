@@ -9826,6 +9826,10 @@ section .container-fluid {
   margin: 0 -70px;
   margin-bottom: 70px;
 }
+.blog-details-content-wrap .blog-video video {
+  max-width: 100%;
+  width: 100%;height: auto;
+}
 @media only screen and (max-width: 1199px) {
   .blog-details-content-wrap .blog-video {
     margin-left: 0;

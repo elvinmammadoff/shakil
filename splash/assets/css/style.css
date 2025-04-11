@@ -77,6 +77,9 @@ a:focus {
 .mb-30 {
     margin-bottom: 30px;
 }
+.mt-50 {
+    margin-top: 50px;
+}
 .padd_lr0 {
     padding: 0;
 }
@@ -111,6 +114,18 @@ a:focus {
 .button:focus {
     color: #fff;
 }
+.button-border {
+    background-color: transparent;
+    border: 1px solid #fa325e;
+    color: #fa325e;
+}
+.button-border:hover {
+    box-shadow: 4px 3px 24px rgba(250, 50, 94, .5);
+    color: #fa325e;
+}
+.button-border:focus {
+    color: #fa325e;
+}
 
 /*---------------------------------------- 
 ==========================================
@@ -142,6 +157,12 @@ a:focus {
     height: 100%;
     background-color: rgba(0,0,0,.6);
     z-index: -1;
+}
+.banner-actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
 }
 .logo {
     margin-bottom: 20px;

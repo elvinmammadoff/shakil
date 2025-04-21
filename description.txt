@@ -1,12 +1,17 @@
-<div class="user-html user-html__with-lazy-load"><h3 id="item-description__nahacivan-photographer-portfolio-html-template">NahaCivan – Photographer Portfolio HTML Template</h3>
-<p><strong>NahaCivan</strong> – Photographer Portfolio HTML Template is a responsive and impressive HTML5 template. <strong>NahaCivan</strong> is an all-in-one package that includes unique style and functionality. This creative and pixel perfect design is intuitively for creative minds who are dealing with photography passionately or on a professional basis. <br><br> It is easy to use, fully responsive and works seamlessly across all devices.Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect website.This Bootstrap 5 based photography portfolio template is the best choice for your outstanding web presence. <br><br> Get <strong>NahaCivan</strong> and take your website to the next level.
-Most importantly, it helps you to create a unique portfolio of your amazing works and displays your photographs in a distinctive way to amaze everyone. On top of that, there is no need for you to be doing any hard work to stand out because we have added user-friendly codes.
-</p>
+<div class="user-html user-html__with-lazy-load"><h3 id="item-description__shakil-photography-portfolio-html-template">Shakil – Photography Portfolio HTML Template</h3>
+<p><strong>Shakil</strong> Photography Portfolio is an all-in-one package that includes unique style and functionality. It provides you customizable template to help create dynamic and engaging web pages.</p>
 
-	<p><img src="https://camo.envatousercontent.com/13c69604a1f8772ac8a5115501e313127e4645a8/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f726174652e706e67" alt="rate-us"></p>
+<p><a href="https://shakil.netlify.app/documentation/" rel="nofollow" target="_blank"><img src="https://shakil.netlify.app/documentation.png" alt="Shakil - Documentation HTML Template"></a><a href="https://themeforest.net/user/alissio/follow"><img src="https://shakil.netlify.app/follow-us.png" alt="Alissio - Follow Us"></a></p>
 
+<p><img src="https://shakil.netlify.app/shakil-showcase-1.png" alt="Shakil - Photography Portfolio HTML Template - 1"></p>
+<a href="https://shakill.netlify.app/splash/#pages" rel="nofollow" target="_blank"><img src="https://shakil.netlify.app/shakil-showcase-2.png" alt="Shakil – Photography Portfolio HTML Template - 2"></a>
+<p><img src="https://shakil.netlify.app/shakil-showcase-3.png" alt="Shakil - Photography Portfolio HTML Template - 3"></p>
+<p><img src="https://shakil.netlify.app/shakil-showcase-4.png" alt="Shakil - Photography Portfolio HTML Template - 4"></p>
+<p><img src="https://shakil.netlify.app/shakil-showcase-5.png" alt="Shakil - Photography Portfolio HTML Template - 5"></p>
 
-<h3 id="item-description__why-choose-nahacivan-photographer-portfolio-html-template">Why choose NahaCivan Photographer Portfolio HTML Template?</h3>
+<p>With <strong>Shakil</strong> you can quickly and easily add stunning pages to your website. It is easy to use, fully responsive and works seamlessly across all devices.<br><br>Choose from a variety of transition effects, control animations and customize everything from colors to fonts to create the perfect pages for your website.<br><br>Get <strong>Shakil</strong> and take your website to the next level.</p>
+
+<h3 id="item-description__why-choose-shakil">Why choose Shakil?</h3>
 <ul>
 <li>
 <strong>Completely Responsive Design</strong>
@@ -37,88 +42,63 @@ Most importantly, it helps you to create a unique portfolio of your amazing work
 <p>Easy to use and navigate.</p>
 </li>
 </ul>
-<h3 id="item-description__other-features">Other Features</h3>
+<h3 id="item-description__shakil-key-features">Shakil Key Features</h3>
 <ul>
-<li>Based on Bootstrap 5.2.3</li>
-<li>Fully Responsive Layout</li>
-<li>Validated Code HTML5, CSS3</li>
-<li>Gallery Pages Included</li><li>Fast Page Load</li>
-<li>User Friendly Code</li>
-<li>Mobile and Tablet Optimized</li>
-<li>W3C HTML valid code</li>
-<li>Pixel Perfect Design</li>
-<li>100% Fully Customizable</li>
-<li>Grid 1770 px</li>
-<li>Cross Browser compatibility</li>
-<li>Comfortable Mobile Navigation</li>
-<li>Fixed Header</li>
-<li>SEO Optimized</li>
+<li>Build with Bootstrap 5.3.3</li>
+<li>Supported Swiper Slider 4.4.1</li>
+<li>W3 Valid code 100%</li>
+<li>Fast Loading Speed</li>
+<li>Developer Friendly Code</li>
+<li>Well Documented Code</li>
+<li>Cross Browser Support</li>
+<li>Modern Design</li>
 <li>Google Fonts</li>
-<li>Font Awesome Icons</li>
-<li>Better Support (response within 24 hours)</li>
-<li>Free Regular Updates Template</li>
-<li>Well, Extensive Documentation</li>
+<li>It’s very easy to use</li>
+<li>Better Dedicated Support (response within 24 hours)</li>
+<li>Free Regular Lifetime Updates</li>
+<li>And much more …</li>
 </ul>
-<h3 id="item-description__files-included">Files Included</h3>
+<h3 id="item-description__included-in-the-purchase-packagee">Included in the purchase package</h3>
 <ul>
-<li>HTML File</li>
-<li>Supporting CSS Files</li>
-<li>Supporting JS Files</li>
-
+<li>HTML Files</li>
+<li>Supporting CSS, SCSS, JS Files</li>
+<li>Premium Image Included in package</li>
 <li>Documentation in HTML</li>
 </ul>
 <h3 id="item-description__3rd-party-libraries-used">3rd Party Libraries License</h3>
 <ul>
-<li>jQuery – <a href="https://jquery.com" rel="nofollow">jQuery</a>
+<li>
+<a href="https://swiperjs.com/" rel="nofollow" target="_blank">Swiper 4.4.1</a> – is a free, modern JavaScript library for building touch sliders (Carousels) with hardware transitions and amazing native behaviors.
 </li>
-<li>Bootstrap Framework – <a href="https://getbootstrap.com/docs/5.2.3/getting-started/introduction/" rel="nofollow">Bootstrap 5.2.3</a>
-</li>
-<li>AOS – <a href="https://michalsnik.github.io/aos/" rel="nofollow">Aos</a>
-</li>
-<li>Fancybox – <a href="http://fancybox.net" rel="nofollow">Fancybox</a>
-</li>
-<li>Slick Slider – <a href="https://kenwheeler.github.io/slick/" rel="nofollow">Slick Slider</a>
+<li>
+<a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" rel="nofollow" target="_blank">Bootstrap 5.3.3</a> – is the free source code and released under the MIT license and is copyright 2024.
 </li>
 </ul>
 <h3 id="item-description__fonts-used">Fonts used:</h3>
 <ul>
-<li><a href="https://fonts.google.com/specimen/IBM+Plex+Sans" rel="nofollow">IBM Plex Sans</a></li>
-
+<li><a href="https://fonts.google.com/specimen/Poppins" rel="nofollow" target="_blank">Poppins</a></li>
+<li><a href="https://fonts.google.com/specimen/Big+Shoulders+Display" rel="nofollow" target="_blank">Big Shoulders Display</a></li>
 </ul>
 <h3 id="item-description__images-license">Images License:</h3><p>Thank you so much to the artists and authors who gave their permission to use their amazing works! <strong>THANK YOU!</strong></p>
 <ul>
-<li>All images used are taken from <a href="https://pixabay.com/" rel="nofollow">Pixabay</a>. Pixabay is a vibrant community of authors, artists and creators sharing royalty-free images, video, audio and other media.
+<li>All images used are taken from <a href="https://pixabay.com/" rel="nofollow" target="_blank">Pixabay</a> and <a href="https://unsplash.com/" rel="nofollow" target="_blank">Unsplash</a>. Pixabay and Unsplash is a vibrant community of authors, artists and creators sharing royalty-free images, video, audio and other media.
 </li>
 </ul>
 <h3 id="item-description__documentation">Documentation</h3>
-<a href="https://nahacivan.netlify.app/documentation/" rel="nofollow">Check the docs here</a>
+<a href="https://shakil.netlify.app/documentation/" rel="nofollow" target="_blank">Check the docs here</a>
 <h3 id="item-description__customization-services">Important Note:</h3>
 <ul>
-<li>All images are just used for Preview Purpose Only. They are not part of the HTML templates and are not included in the final purchase files.</li>
-<li>Images and videos shown on our demo site are not part of the template download package due to licensing limitations and hence we are providing placeholder images with recommended image size mentioned in it.</li>
-<li>Any type of code or CSS customization and feature addition/change is not part of item support scope as per Envato item <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107">support policy</a>.</li>
+<li>All images & videos are used for preview demo purposes, But premium images are <strong>INCLUDED</strong> in the purchase package.</li>
+<li>Envato item scope <a href="https://themeforest.net/page/item_support_policy?_ga=2.233764957.275401607.1701770067-503905489.1698934107" target="_blank">support policy</a>.</li>
 <li>Included a documentation file for full instruction.</li>
 </ul>
 <h3 id="item-description__sources-and-credits">Sources and Credits</h3>
-<p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://nahacivan.netlify.app/documentation/index.html#credits" rel="nofollow">link</a></p>
-<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
-</p><p>We are grateful to you.
-</p><p><strong>– Alissio –</strong></p>
+<p><strong>Please note again: the images that can be seen in the preview are for demo purposes. But premium images are included in the purchase package.</strong> Full credits list you can see on this page <a href="https://shakil.netlify.app/documentation/index.html#credits" rel="nofollow" target="_blank">link</a></p>
+<h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
+</p>
 
-<h3 id="item-description__change-log">Change Log:</h3>
-<p>V. 2.1.0 – 14.01.2025</p>
-<pre>- Added: Homepage Dark version
-- Fixed: Google Fonts imported inside style
-- Improved: Documentation</pre>
-<p>V. 1.0.0 – 12.07.2024</p>
-<pre>- Initial release</pre>
-<p>If you love our product, Don’t forget to rate it 5 stars</p>
-<p>
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star">
-<img src="https://camo.envatousercontent.com/2e9aad3ba714779c98c6995cff55b9ac7b5d1095/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f737461722e706e67" alt="star"> 
-and let us know your feedback for a better update. Thank you
-<img src="https://camo.envatousercontent.com/db98b5dc27596fa29a156cc1388e6459deac0ea7/68747470733a2f2f6573736f2d736c696465722e6e65746c6966792e6170702f7372632f696d672f736d696c652e706e67" alt="happy">
-</p></div>
+<p><img src="https://shakil.netlify.app/shakil-showcase-6.png" alt="Shakil - Photography Portfolio HTML Template - 6"></p>
+
+<h3 id="item-description__change-log">Change Log</h3>
+<p>V. 1.0.0 – 21.04.2025</p>
+<pre>- Initial release</pre></div>

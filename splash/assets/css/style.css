@@ -267,17 +267,11 @@ a:focus {
     transform: scale(1.1);
 }
 .demo-title {
-    font-size: 30px;
+    font-size: 24px;
     line-height: normal;
     font-family: 'Raleway';
     margin-bottom: 20px;
     color: #252525;
-}
-
-@media (min-width: 1400px) {
-    .demo-title {
-        font-size: 22px;
-    }
 }
 .demo-title:hover {
     color: #252525;

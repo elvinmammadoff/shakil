@@ -255,7 +255,7 @@ a:focus {
     z-index: 1;
 }
 .demo-inner {
-    height: 660px;
+    height: 440px;
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -272,6 +272,12 @@ a:focus {
     font-family: 'Raleway';
     margin-bottom: 20px;
     color: #252525;
+}
+
+@media (min-width: 1400px) {
+    .demo-title {
+        font-size: 22px;
+    }
 }
 .demo-title:hover {
     color: #252525;
